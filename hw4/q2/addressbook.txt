@@ -1,0 +1,50 @@
+Andy
+Wyman
+10 10 1999
+123 Fake St
+Hollywood
+CA
+90210
+323-323-3233
+0
+
+Matt
+Belluardo
+1 1 1900
+855 North Vermont Avenue
+Los Angeles
+California
+90029
+555-5555
+3
+
+Jim
+Doran
+9 8 1983
+123 Cambridge Ave
+Glenoaks
+CA
+96201
+564-564-5645
+1
+
+Alfred
+Flores
+4 30 2001
+789 Long Ave
+Pensacola
+FL
+21045
+878-878-8987
+2
+
+Stuart
+Little
+8 20 1962
+56 Enderland Ave
+Duluth
+MN
+54121
+686-686-6868
+3
+

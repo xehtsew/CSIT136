@@ -1,0 +1,14 @@
+Johnson 2000
+Miller 1000
+Duffy 1000
+Robinson 1500
+Sam 900
+Sam 500
+Miller 2000
+Duffy 4000
+Johnson 2000
+Robinson 1000
+Sam 400
+Johnson 1000
+Miller 1000
+Duffy 1000
